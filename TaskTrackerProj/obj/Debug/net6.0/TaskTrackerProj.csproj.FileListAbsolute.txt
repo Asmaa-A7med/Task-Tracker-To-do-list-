@@ -1,0 +1,15 @@
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\bin\Debug\net6.0\TaskTrackerProj.exe
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\bin\Debug\net6.0\TaskTrackerProj.deps.json
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\bin\Debug\net6.0\TaskTrackerProj.runtimeconfig.json
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\bin\Debug\net6.0\TaskTrackerProj.dll
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\bin\Debug\net6.0\TaskTrackerProj.pdb
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\TaskTrackerProj.csproj.AssemblyReference.cache
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\TaskTrackerProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\TaskTrackerProj.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\TaskTrackerProj.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\TaskTrackerProj.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\TaskTrackerProj.dll
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\refint\TaskTrackerProj.dll
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\TaskTrackerProj.pdb
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\TaskTrackerProj.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\.net track\c#\TaskTrackerProj\TaskTrackerProj\obj\Debug\net6.0\ref\TaskTrackerProj.dll
