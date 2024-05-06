@@ -95,23 +95,3 @@
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/// task tracker || to do list 
-/// welcom user 
-/// handel tasks (add new |view tasks | delete | mark task | exit )
